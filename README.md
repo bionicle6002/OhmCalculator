@@ -8,7 +8,7 @@ In electronics, Resistors are essential. Ohms is a unit of resistance in a resis
 ![image](https://github.com/bionicteaa/OhmCalculator/assets/116389300/544771e8-2f47-4aa1-86ad-03f15c8e823d)
 
 #
-However, remembering this chart isn't easy. Which is why i've provided a simple console-based interface in order to identify a resistor.
+However, remembering this chart isn't easy. Which is why i've made a simple console-based interface in order to identify a resistor (for my own ease too!)
 
 
 
